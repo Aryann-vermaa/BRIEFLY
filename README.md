@@ -1,0 +1,2 @@
+# Briefly
+AI Article Summerizer
